@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Second App</string>
+    <string name="send">Send Message to send</string>
+    <string name="hint">Enter a message</string>
+</resources>
